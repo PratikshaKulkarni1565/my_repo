@@ -1,0 +1,7 @@
+pytest>=9.0
+pytest-playwright>=0.9
+playwright>=1.62
+requests>=2.32
+appium-python-client>=3.1
+selenium>=4.0
+pyyaml>=6.0
